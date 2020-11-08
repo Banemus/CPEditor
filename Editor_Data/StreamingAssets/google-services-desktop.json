@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "630388019239",
+    "firebase_url": "https://crafty-potions.firebaseio.com",
+    "project_id": "crafty-potions",
+    "storage_bucket": "crafty-potions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630388019239:android:b494ca25ae9d2087",
+        "android_client_info": {
+          "package_name": "com.CraftyPotions.App"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630388019239-a9e2b48hm6c0u2j2f7aosrdppevdpnj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKPq27DWrNmfM7o5Oo9eTAsfzIzAJkX08"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
